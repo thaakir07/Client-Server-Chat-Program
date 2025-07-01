@@ -7,7 +7,7 @@ A sophisticated multi-client Java chat application built with JavaFX that provid
 - **Gideon Daniel Botha**
 - **Priyal Bhana**
 - **Sulaiman Bandarkar**
-- **Thaakir Fernandez (group leader)** - thaakir07@gmail.com
+- **Thaakir Fernandez** (Group leader) - thaakir07@gmail.com
 
 ## Project Timeline
 
@@ -16,15 +16,15 @@ A sophisticated multi-client Java chat application built with JavaFX that provid
 
 ## Features
 
-- ✨ **Multi-client chat server** - Support for multiple simultaneous connections using multithreading
-- 🔐 **Username authentication** - Unique username validation with error handling
-- 💬 **Group chat functionality** - Real-time broadcast messaging to all connected users
-- 📧 **Private messaging ("Whispers")** - Send direct messages using `@username` format with dedicated windows
-- 🚪 **Exit command** - Clean disconnect using `/exit` command
-- 🖥️ **JavaFX GUI** - Modern, responsive graphical interface with dark theme
-- 👥 **Active user list** - Real-time display of online users with click-to-whisper functionality
-- 🔄 **Concurrent operations** - Thread-safe operations using ConcurrentHashMap
-- 📱 **Multi-window support** - Multiple private chat windows can be open simultaneously
+- **Multi-client chat server** - Support for multiple simultaneous connections using multithreading
+- **Username authentication** - Unique username validation with error handling
+- **Group chat functionality** - Real-time broadcast messaging to all connected users
+- **Private messaging ("Whispers")** - Send direct messages using `@username` format with dedicated windows
+- **Exit command** - Clean disconnect using `/exit` command
+- **JavaFX GUI** - Modern, responsive graphical interface with dark theme
+- **Active user list** - Real-time display of online users with click-to-whisper functionality
+- **Concurrent operations** - Thread-safe operations using ConcurrentHashMap
+- **Multi-window support** - Multiple private chat windows can be open simultaneously
 
 ## Project Structure
 
