@@ -38,40 +38,12 @@ A sophisticated multi-client Java chat application built with JavaFX that provid
 └── README.md
 ```
 
-## Technical Architecture
-
-### Server (`Server.java`)
-- Creates ServerSocket on port 1234
-- Manages concurrent client connections using ConcurrentHashMap
-- Handles username validation and uniqueness
-- Broadcasts user join/leave notifications
-- Maintains real-time user list synchronization
-
-### Client Handler (`ClientHandler.java`)
-- Implements Runnable for multithreaded client management
-- Processes different message types (group chat, whispers, commands)
-- Handles private messaging with `@username` syntax
-- Manages client disconnection and cleanup
-
-### Client (`Client.java`)
-- JavaFX-based GUI application with modern dark theme
-- Real-time message listening on separate thread
-- Interactive user list with click-to-whisper functionality
-- Multi-window private chat support
-- Automatic GUI updates using Platform.runLater()
-
 ## Prerequisites
 
 - Java Development Kit (JDK) 8 or higher with JavaFX support
 - Make utility (for using the Makefile)
 - Network connectivity (application uses IP 10.242.69.49 via ZeroTier VPN)
 - JavaFX library
-
-## Installation & Setup
-
-1. Clone or download the project files
-2. Navigate to the project directory containing the Makefile
-3. Open a terminal in this directory
 
 ## Compilation and Execution
 
