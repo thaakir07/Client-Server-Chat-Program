@@ -7,7 +7,7 @@ A sophisticated multi-client Java chat application built with JavaFX that provid
 - **Gideon Daniel Botha**
 - **Priyal Bhana**
 - **Sulaiman Bandarkar**
-- **Thaakir Fernandez** - thaakir07@gmail.com
+- **Thaakir Fernandez (group leader)** - thaakir07@gmail.com
 
 ## Project Timeline
 
