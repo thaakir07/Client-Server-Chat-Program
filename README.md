@@ -1,4 +1,4 @@
-# Java Chat Application
+# Client-Server Chat program
 
 A sophisticated multi-client Java chat application built with JavaFX that provides real-time communication between multiple users through a central server. The application features an intuitive graphical interface with support for both group chat and private messaging.
 
