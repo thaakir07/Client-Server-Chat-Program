@@ -9,6 +9,11 @@ A sophisticated multi-client Java chat application built with JavaFX that provid
 - **Sulaiman Bandarkar**
 - **Thaakir Fernandez** - thaakir07@gmail.com
 
+## Project Timeline
+
+- **Start Date:** February 2025
+- **Completed:** March 2025
+
 ## Features
 
 - ✨ **Multi-client chat server** - Support for multiple simultaneous connections using multithreading
@@ -120,7 +125,7 @@ make clean
 
 ## Network Configuration
 
-- **Default IP Address**: 10.242.69.49 (ZeroTier VPN)
+- **Default IP Address**: 10.242.69.49 (Priyal Bhana ZeroTier VPN)
 - **Default Port**: 1234
 
 **Important**: The server must be running before any clients can connect.
